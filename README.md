@@ -6,20 +6,20 @@
 
 ---
 
-Code for our paper at ECCV 2020 (**oral** presentation): **Post-Training Piecewise Linear Quantization for Deep Neural Networks** [[Paper]](https://github.com/jun-fang/PWLQ/blob/master/2949.pdf) [[arXiv]](https://arxiv.org/abs/2002.00104) 
+Code for our paper at ECCV 2020 (**oral** presentation): **Post-Training Piecewise Linear Quantization for Deep Neural Networks** [[Paper]](https://github.com/jun-fang/PWLQ/blob/master/paper/2949.pdf) [[arXiv]](https://arxiv.org/abs/2002.00104) 
 
 By Jun Fang, Ali Shafiee, Hamzah Abdel-Aziz, David Thorsley, Georgios Georgiadis, Joseph Hassoun
 
 - **Approach**
 
 <div align="center">
-   <img src="pic1_schemes.png" width="720">
+   <img src="./figure/pic1_schemes.png" width="720">
 </div>
 
 - **Performance**
 
 <div align="center">
-   <img src="pic2_results.png" width="720">
+   <img src="./figure/pic2_results.png" width="720">
 </div>
 
 ## Citation
