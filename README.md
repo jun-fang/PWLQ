@@ -21,7 +21,7 @@ By Jun Fang, Ali Shafiee, Hamzah Abdel-Aziz, David Thorsley, Georgios Georgiadis
 - **Performance**
 
 <div align="center">
-   <img src="./figure/pic2_results.png" width="720">
+   <img src="./figure/pic2_results.png" width="640">
 </div>
 
 <div align="center">
