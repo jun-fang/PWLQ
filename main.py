@@ -143,7 +143,7 @@ def main():
                                      std=[0.229, 0.224, 0.225])
     
     if args.get_stats:
-        valdir = os.path.join(args.data, 'train')
+        valdir = os.path.join(args.data, 'val')
         shuffle_option = True
 
     val_loader = torch.utils.data.DataLoader(
